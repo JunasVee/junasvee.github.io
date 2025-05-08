@@ -1204,8 +1204,8 @@ textarea#comment::placeholder {
 .form-submit {
     margin-top: 10px;
     padding: 10px 60px;
-    background-color:#00c6aa;
-    color: white;
+    background-color:rgb(255, 242, 0);
+    color: black;
 }
 
 .send_bt {
